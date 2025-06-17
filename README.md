@@ -117,6 +117,11 @@ This project is for educational and personal learning purposes only.
 
 ---
 
+> 📺 This project was created as a learning exercise by following a YouTube tutorial.  
+Credit to https://www.youtube.com/watch?v=opR0gitWQ1w&list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep&index=1 for the original content.
+
+---
+
 ## 👨‍💻 Author
 
 - **Name**: Mohamed Adel Elwekel  
