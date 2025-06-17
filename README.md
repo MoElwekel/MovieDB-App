@@ -111,13 +111,14 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
+## 📌 License
+
+This project is for educational and personal learning purposes only.
+
+---
+
 ## 👨‍💻 Author
 
 - **Name**: Mohamed Adel Elwekel  
 - **GitHub**: [MoElwekel](https://github.com/MoElwekel)
 
----
-
-## 📌 Notes
-
-  - This is an educational project and is not a real Movie-Website clone.
