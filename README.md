@@ -111,5 +111,13 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
+## 👨‍💻 Author
+
+- **Name**: Mohamed Adel Elwekel  
+- **GitHub**: [MoElwekel](https://github.com/MoElwekel)
+
+---
+
+## 📌 Notes
+
+  - This is an educational project and is not a real Movie-Website clone.
