@@ -41,24 +41,27 @@ movie-db-app/
 │   └── index.html
 ├── src/
 │   ├── Component/
-│   │   ├── CardMovie.js          # Movie card component
-│   │   ├── MovieDetails.js       # Movie details view
-│   │   ├── MovieList.js          # Main movie list component
-│   │   ├── Navbar.js             # Navigation bar
-│   │   └── Pagination.js         # Pagination component
+│   │   ├── CardMovie.js
+│   │   ├── MovieDetails.js
+│   │   ├── MovieList.js
+│   │   ├── Navbar.js
+│   │   └── Pagination.js
 │   ├── Redux/
 │   │   ├── actions/
-│   │   │   └── movieAction.js    # All movie-related async actions
+│   │   │   └── movieAction.js
 │   │   ├── reducers/
-│   │   │   └── movieReducer.js   # Movie reducer
-│   │   └── store.js              # Redux store config
-│   ├── api.js                    # Contains the TMDb API key (you create this)
-│   ├── App.js                    # Route configuration and layout
-│   ├── index.js                  # Main entry point + Redux Provider
-│   └── index.css                 # Global styles (including RTL)
+│   │   │   └── movieReducer.js
+│   │   ├── store/
+│   │   │   └── store.js
+│   │   └── types/
+│   │       └── types.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
 ├── .gitignore
 ├── package.json
 └── README.md
+
 ```
 
 ---
