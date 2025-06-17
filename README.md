@@ -111,7 +111,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 📌 License
+## 📌 Note
 
 This project is for educational and personal learning purposes only.
 
